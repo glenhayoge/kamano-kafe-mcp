@@ -1,0 +1,46 @@
+from fastapi import FastAPI, Request, Form
+from fastapi.responses import HTMLResponse, RedirectResponse
+from fastapi.staticfiles import StaticFiles
+from fastapi.templating import Jinja2Templates
+from app import crud
+from app.models import Entry, Example
+
+app = FastAPI()
+app.mount("/static", StaticFiles(directory="app/static"), name="static")
+templates = Jinja2Templates(directory="app/templates")
+
+@app.get("/", response_class=HTMLResponse)
+async def home(request: Request):
+    entries = crud.get_all_entries()
+    return templates.TemplateResponse("index.html", {"request": request, "entries": entries})
+
+@app.get("/entries/new", response_class=HTMLResponse)
+async def new_entry_form(request: Request):
+    return templates.TemplateResponse("entry_form.html", {"request": request})
+
+@app.post("/entries")
+async def create_entry(
+    word: str = Form(...),
+    part_of_speech: str = Form(...),
+    definition: str = Form(...),
+    tok_pisin: str = Form(""),
+    example_kamano: str = Form(""),
+    example_english: str = Form("")
+):
+    example = None
+    if example_kamano and example_english:
+        example = Example(kamano=example_kamano, english=example_english)
+    entry = Entry(
+        word=word,
+        part_of_speech=part_of_speech,
+        definition=definition,
+        tok_pisin=tok_pisin,
+        example=example
+    )
+    crud.create_entry(entry)
+    return RedirectResponse(url="/", status_code=303)
+
+@app.get("/entries/{word}", response_class=HTMLResponse)
+async def entry_detail(request: Request, word: str):
+    entry = crud.get_entry(word)
+    return templates.TemplateResponse("entry_detail.html", {"request": request, "entry": entry})
