@@ -111,7 +111,7 @@ A quick walkthrough to be posted here soon
 
 ## 📝 License & Acknowledgments
 
-- © 2025 Glen Hayoge / [Dzagoo](https://dzagoo.com)
+- © 2025 [Glen Hayoge](https://glensea.com) - [Dzagoo Digital Technologies](https://dzagoo.com)
 
 - Language data extracted from Kamano-Kafe Dictionary by SIL PNG
 
