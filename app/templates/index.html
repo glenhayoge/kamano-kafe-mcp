@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="mb-4">
+  <a href="/entries/new" class="btn btn-primary">Add New Word</a>
+</div>
+
+<ul class="space-y-2">
+  {% for entry in entries %}
+  <li class="bg-white rounded shadow p-4 hover:bg-base-100">
+    <a href="/entries/{{ entry.word }}" class="text-xl font-semibold">{{ entry.word }}</a>
+    <p>{{ entry.definition }}</p>
+  </li>
+  {% endfor %}
+</ul>
+{% endblock %}
