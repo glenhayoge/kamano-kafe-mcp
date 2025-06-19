@@ -4,6 +4,7 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from app import crud
 from app.models import Entry, Example
+from datetime import datetime
 
 app = FastAPI()
 app.mount("/static", StaticFiles(directory="app/static"), name="static")
@@ -28,12 +29,13 @@ async def home(request: Request, q: str = Query(None), field: str = Query("word"
         "request": request,
         "entries": filtered,
         "q": q,
-        "field": field
+        "field": field,
+        "year": datetime.now().year
     })
 
 @app.get("/entries/new", response_class=HTMLResponse)
 async def new_entry_form(request: Request):
-    return templates.TemplateResponse("entry_form.html", {"request": request})
+    return templates.TemplateResponse("entry_form.html", {"request": request, "year": datetime.now().year})
 
 @app.post("/entries")
 async def create_entry(
@@ -60,4 +62,4 @@ async def create_entry(
 @app.get("/entries/{word}", response_class=HTMLResponse)
 async def entry_detail(request: Request, word: str):
     entry = crud.get_entry(word)
-    return templates.TemplateResponse("entry_detail.html", {"request": request, "entry": entry})
+    return templates.TemplateResponse("entry_detail.html", {"request": request, "entry": entry, "year": datetime.now().year})
