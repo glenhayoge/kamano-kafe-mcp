@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block content %}
+<form action="/entries" method="post" class="space-y-4">
+  <input type="text" name="word" placeholder="Word" class="input input-bordered w-full" required>
+  <input type="text" name="part_of_speech" placeholder="Part of Speech" class="input input-bordered w-full" required>
+  <input type="text" name="definition" placeholder="Definition" class="input input-bordered w-full" required>
+  <input type="text" name="tok_pisin" placeholder="Tok Pisin Translation" class="input input-bordered w-full">
+  <textarea name="example_kamano" placeholder="Example in Kamano" class="textarea textarea-bordered w-full"></textarea>
+  <textarea name="example_english" placeholder="Example in English" class="textarea textarea-bordered w-full"></textarea>
+  <button class="btn btn-success" type="submit">Save</button>
+</form>
+{% endblock %}

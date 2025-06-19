@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+<h2 class="text-2xl font-bold">{{ entry.word }}</h2>
+<p><strong>Part of Speech:</strong> {{ entry.part_of_speech }}</p>
+<p><strong>Definition:</strong> {{ entry.definition }}</p>
+<p><strong>Tok Pisin:</strong> {{ entry.tok_pisin }}</p>
+{% if entry.example %}
+  <div class="mt-2">
+    <p><strong>Kamano:</strong> {{ entry.example.kamano }}</p>
+    <p><strong>English:</strong> {{ entry.example.english }}</p>
+  </div>
+{% endif %}
+<a href="/" class="btn mt-4">Back</a>
+{% endblock %}

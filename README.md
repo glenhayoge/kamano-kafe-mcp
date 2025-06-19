@@ -107,12 +107,12 @@ API Docs: http://localhost:8000/docs
 
 ## 📽️ Demo Video/GIF
 
-- a quick walkthrough to be posted here
+A quick walkthrough to be posted here soon
 
-##📝 License & Acknowledgments
+## 📝 License & Acknowledgments
 
-- © 2025 Glen Hayoge / [Your Organization]
+- © 2025 Glen Hayoge / [Dzagoo](https://dzagoo.com)
 
-- Language data from Kamano-Kafe Dictionary by SIL PNG
+- Language data extracted from Kamano-Kafe Dictionary by SIL PNG
 
 - Built with ❤️ for language preservation in Papua New Guinea
