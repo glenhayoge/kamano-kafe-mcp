@@ -1,15 +1,30 @@
 {% extends "base.html" %}
 {% block content %}
+
 <div class="mb-4">
   <a href="/entries/new" class="btn btn-primary">Add New Word</a>
 </div>
 
-<ul class="space-y-2">
-  {% for entry in entries %}
-  <li class="bg-white rounded shadow p-4 hover:bg-base-100">
-    <a href="/entries/{{ entry.word }}" class="text-xl font-semibold">{{ entry.word }}</a>
-    <p>{{ entry.definition }}</p>
-  </li>
-  {% endfor %}
-</ul>
+{% if q %}
+  <p class="mb-2 text-sm text-gray-500">
+    Showing results for "<strong>{{ q }}</strong>" in <strong>{{ field or 'word' }}</strong>
+  </p>
+{% endif %}
+
+{% if entries|length == 0 %}
+  <div class="text-center text-gray-500 mt-10">
+    <p class="text-lg">No results found.</p>
+    <p class="text-sm">Try a different keyword or search field.</p>
+  </div>
+{% else %}
+  <ul class="space-y-2">
+    {% for entry in entries %}
+      <li class="bg-white dark:bg-base-200 rounded shadow p-4 hover:bg-base-100">
+        <a href="/entries/{{ entry.word }}" class="text-xl font-semibold">{{ entry.word }}</a>
+        <p>{{ entry.definition }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
 {% endblock %}

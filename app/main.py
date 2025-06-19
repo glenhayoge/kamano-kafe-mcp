@@ -1,4 +1,4 @@
-from fastapi import FastAPI, Request, Form
+from fastapi import FastAPI, Request, Form, Query
 from fastapi.responses import HTMLResponse, RedirectResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
@@ -10,9 +10,26 @@ app.mount("/static", StaticFiles(directory="app/static"), name="static")
 templates = Jinja2Templates(directory="app/templates")
 
 @app.get("/", response_class=HTMLResponse)
-async def home(request: Request):
+async def home(request: Request, q: str = Query(None), field: str = Query("word")):
     entries = crud.get_all_entries()
-    return templates.TemplateResponse("index.html", {"request": request, "entries": entries})
+    filtered = []
+
+    if q:
+        for entry in entries:
+            value = entry.get(field, "")
+            if isinstance(value, list):
+                value = " ".join(value)
+            if q.lower() in value.lower():
+                filtered.append(entry)
+    else:
+        filtered = entries
+
+    return templates.TemplateResponse("index.html", {
+        "request": request,
+        "entries": filtered,
+        "q": q,
+        "field": field
+    })
 
 @app.get("/entries/new", response_class=HTMLResponse)
 async def new_entry_form(request: Request):
