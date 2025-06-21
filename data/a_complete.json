@@ -43,7 +43,7 @@
   },
   {
     "word": "afi'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "fetch water; draw water; take (out); serve; scoop",
     "tok_pisin": "pulimapim  (wara); sutim kaikai",
     "example": {
@@ -110,7 +110,7 @@
   },
   {
     "word": "afure'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "ripe",
     "tok_pisin": "mau",
     "example": {
@@ -251,7 +251,7 @@
   },
   {
     "word": "agatre'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "overtake; pass; beat; win; surpass; defeat; over-power; conquor; over"
   },
   {
@@ -266,7 +266,7 @@
   },
   {
     "word": "agazfe'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "variants": [
       "ageragne'nee"
     ],
@@ -497,7 +497,7 @@
   },
   {
     "word": "agi'rinee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "talk nonsense",
     "tok_pisin": "maus wara",
     "example": {
@@ -540,7 +540,7 @@
   },
   {
     "word": "agofi'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "sexual intercourse",
     "tok_pisin": "slip wantaim em pinis; puspus; pilai wantaim  em pinis; marit pasin",
     "example": {
@@ -550,7 +550,7 @@
   },
   {
     "word": "agofre'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "Sim: hankro'mo' agu'a fre'nee",
     "tok_pisin": "pret",
     "example": {
@@ -854,7 +854,7 @@
   },
   {
     "word": "ahe'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "hit; kill; murder; beat; strike; harm; shoot",
     "tok_pisin": "kilim; paitim",
     "example": {
@@ -864,7 +864,7 @@
   },
   {
     "word": "ahentagri'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "dam",
     "tok_pisin": "pasim wara",
     "example": {
@@ -874,7 +874,7 @@
   },
   {
     "word": "ahente'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "fall; crash; overturn",
     "tok_pisin": "pundaun; kapsait",
     "example": {
@@ -884,7 +884,7 @@
   },
   {
     "word": "aheru'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "mix",
     "tok_pisin": "tanim",
     "example": {
@@ -927,7 +927,7 @@
   },
   {
     "word": "akfri'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "cut off; chop off (e",
     "tok_pisin": "katim",
     "example": {
@@ -937,7 +937,7 @@
   },
   {
     "word": "akmre'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "stain; stick",
     "tok_pisin": "pas",
     "example": {
@@ -947,7 +947,7 @@
   },
   {
     "word": "akohe'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "ease up; ease back; gentle; slowly",
     "tok_pisin": "isi",
     "example": {
@@ -967,7 +967,7 @@
   },
   {
     "word": "akre'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "peel",
     "tok_pisin": "rausim skin; skinim",
     "example": {
@@ -977,7 +977,7 @@
   },
   {
     "word": "akri'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "Chew a plant to produce its dye"
   },
   {
@@ -992,7 +992,7 @@
   },
   {
     "word": "aksi'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "take out; pull out (of a tooth, nail, intestines)",
     "tok_pisin": "rausim",
     "example": {
@@ -1015,7 +1015,7 @@
   },
   {
     "word": "amaki'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "Sim: pri hu'nee",
     "tok_pisin": "katim (gras)",
     "example": {
@@ -1025,7 +1025,7 @@
   },
   {
     "word": "amasgi'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "variants": [
       "amapi"
     ],
@@ -1065,8 +1065,8 @@
     "definition": "branch",
     "tok_pisin": "han bilong diwai",
     "example": {
-      "kamano": "amena' re'nea  zafa A tree with branches",
-      "english": ""
+      "kamano": "amena' re'nea  zafa",
+      "english": "A tree with branches"
     }
   },
   {
@@ -1132,7 +1132,7 @@
   },
   {
     "word": "amgi'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "soft; limp",
     "tok_pisin": "mau kaukau",
     "example": {
@@ -1157,7 +1157,7 @@
     "tok_pisin": "poin bilong susu; ai bilong susu",
     "example": {
       "kamano": "amikotena mofrave last child (when no more are expected); youngest child",
-      "english": "Tok Pidgin:  last pikinini.    ami'mi' hu'nee v. distract; appease; betray; induce; entice; persuade. Tok Pidgin: trikim;  giamanim. As when giving a child something to take his mind off another thing. As when  betrayed by deception to the enemy. The basic meaning is deception. Nmi'mi hige'na  ogeno' nahee. He persuaded me to come so I came and he has beaten me (at cards)."
+      "english": "Tok Pidgin: last pikinini. ami'mi' hu'nee v. distract; appease; betray; induce; entice; persuade. Tok Pidgin: trikim;  giamanim. As when giving a child something to take his mind off another thing. As when  betrayed by deception to the enemy. The basic meaning is deception. Nmi'mi hige'na  ogeno' nahee. He persuaded me to come so I came and he has beaten me (at cards)."
     }
   },
   {
@@ -1172,7 +1172,7 @@
   },
   {
     "word": "ami'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "give",
     "tok_pisin": "givim",
     "example": {
@@ -1249,7 +1249,7 @@
   },
   {
     "word": "ampri'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "variants": [
       "ampse' ami'nee"
     ],
@@ -1305,7 +1305,7 @@
   },
   {
     "word": "-ana",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "variants": [
       "ana mika'"
     ],
@@ -1333,7 +1333,7 @@
   },
   {
     "word": "anaki'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "variants": [
       "anakinte'nee"
     ],
@@ -1359,7 +1359,7 @@
   },
   {
     "word": "anare'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "Ant: anopa'",
     "tok_pisin": "strong",
     "example": {
@@ -1427,7 +1427,7 @@
   },
   {
     "word": "ange'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "Sim: ksagi'nee",
     "tok_pisin": "rolim; Em i rolim longpela rop",
     "example": {
@@ -1437,7 +1437,7 @@
   },
   {
     "word": "angi'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "open (a door or lid); take off; unlock",
     "tok_pisin": "opim",
     "example": {
@@ -1453,7 +1453,7 @@
   },
   {
     "word": "anihe'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "dig",
     "tok_pisin": "ino digim, planim nating; katim gras na planim",
     "example": {
@@ -1463,7 +1463,7 @@
   },
   {
     "word": "animre'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "developed; normal",
     "tok_pisin": "kamap (bikpela)",
     "example": {
@@ -1483,7 +1483,7 @@
   },
   {
     "word": "ani'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "bite; chew; pierce (by arrow or needle)",
     "tok_pisin": "kaikaim long maus; go  insait",
     "example": {
@@ -1503,7 +1503,7 @@
   },
   {
     "word": "anintike'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "Sim: antike'nee",
     "tok_pisin": "brukim brukim",
     "example": {
@@ -1519,7 +1519,7 @@
   },
   {
     "word": "anke'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "Sim: hantgi'nee, ankre hu'nee",
     "tok_pisin": "brukim",
     "example": {
@@ -1573,7 +1573,7 @@
   },
   {
     "word": "ankre'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "Sim: antni'nee",
     "tok_pisin": "putim siot;  putim sapnil",
     "example": {
@@ -1583,7 +1583,7 @@
   },
   {
     "word": "ankri'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "swallow",
     "tok_pisin": "daunim",
     "example": {
@@ -1603,7 +1603,7 @@
   },
   {
     "word": "ankse'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "wipe; rub",
     "tok_pisin": "rabim",
     "example": {
@@ -1651,7 +1651,7 @@
   },
   {
     "word": "anohi'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "variants": [
       "rohi'nee"
     ],
@@ -1699,7 +1699,7 @@
   },
   {
     "word": "ante'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "put; have; keep; deposit; give birth to; lay",
     "tok_pisin": "putim; i gat",
     "example": {
@@ -1709,7 +1709,7 @@
   },
   {
     "word": "antgitre'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "fell; cut down",
     "tok_pisin": "katim daun",
     "example": {
@@ -1719,7 +1719,7 @@
   },
   {
     "word": "antgre'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "variants": [
       "antguntgu hu'nee"
     ],
@@ -1732,7 +1732,7 @@
   },
   {
     "word": "anthige'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "ask; consult; enquire; inquire",
     "tok_pisin": "askim",
     "example": {
@@ -1742,7 +1742,7 @@
   },
   {
     "word": "anthi'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "hear; know; understand; listen; (be) sure",
     "tok_pisin": "harim; save",
     "example": {
@@ -1762,7 +1762,7 @@
   },
   {
     "word": "antike'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "crease",
     "tok_pisin": "brukim brukim",
     "example": {
@@ -1778,7 +1778,7 @@
   },
   {
     "word": "antni'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "put on (an article of clothing on the top part of the body); wear",
     "tok_pisin": "putim (siot)",
     "example": {
@@ -1788,7 +1788,7 @@
   },
   {
     "word": "antre'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "Sim: vzagate'nee/hte'nee",
     "tok_pisin": "sapim;  sikrapim",
     "example": {
@@ -1811,7 +1811,7 @@
   },
   {
     "word": "anuki'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "variants": [
       "anumzaza avenesie"
     ],
@@ -1837,7 +1837,7 @@
   },
   {
     "word": "anunumpe'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "fall out",
     "tok_pisin": "kamaut; raus",
     "example": {
@@ -1847,7 +1847,7 @@
   },
   {
     "word": "anure'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "variants": [
       "ape hu'nee"
     ],
@@ -1860,7 +1860,7 @@
   },
   {
     "word": "apasente'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "atone for; take away; forgive",
     "tok_pisin": "bekim",
     "example": {
@@ -1870,7 +1870,7 @@
   },
   {
     "word": "apese'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "Sim: nena hu'nee",
     "tok_pisin": "strong pinis",
     "example": {
@@ -1890,7 +1890,7 @@
   },
   {
     "word": "apogi'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "heavily laden with fruit; good yield",
     "tok_pisin": "pulap; planti",
     "example": {
@@ -1900,7 +1900,7 @@
   },
   {
     "word": "apri'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "variants": [
       "ara'u fi'nee"
     ],
@@ -1978,7 +1978,7 @@
   },
   {
     "word": "asamre'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "variants": [
       "asaro'amo'a",
       "nesaro"
@@ -1992,7 +1992,7 @@
   },
   {
     "word": "ase'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "cut; grow; become; change into",
     "tok_pisin": "katim; kamap bikpela; kamap;  senis",
     "example": {
@@ -2002,7 +2002,7 @@
   },
   {
     "word": "ase'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "plant seeds; sow (rhymes with toe)",
     "tok_pisin": "planim",
     "example": {
@@ -2035,7 +2035,7 @@
   },
   {
     "word": "asente'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "bury; put into the mopafi ground",
     "tok_pisin": "planim",
     "example": {
@@ -2065,7 +2065,7 @@
   },
   {
     "word": "asguhe'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "ravenous; (very) hungry",
     "tok_pisin": "bel pen",
     "example": {
@@ -2120,7 +2120,7 @@
   },
   {
     "word": "asire'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "Sim: asi ri'nee, asinte'nee",
     "tok_pisin": "putim kiau",
     "example": {
@@ -2130,7 +2130,7 @@
   },
   {
     "word": "asmi'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "tell someone; inform",
     "tok_pisin": "tokim",
     "example": {
@@ -2140,7 +2140,7 @@
   },
   {
     "word": "asne'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "sharp (of knife etc",
     "tok_pisin": "sap",
     "example": {
@@ -2150,7 +2150,7 @@
   },
   {
     "word": "asni'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "Sim: ontee",
     "tok_pisin": "i no tan",
     "example": {
@@ -2166,7 +2166,7 @@
   },
   {
     "word": "asogi'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "Sim: asoginte'nee",
     "tok_pisin": "hait",
     "example": {
@@ -2215,7 +2215,7 @@
   },
   {
     "word": "asunte'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "variants": [
       "hunte'nee"
     ],
@@ -2228,7 +2228,7 @@
   },
   {
     "word": "asute'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "variants": [
       "aga sute'nee"
     ],
@@ -2261,7 +2261,7 @@
   },
   {
     "word": "atagri'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "pain",
     "tok_pisin": "pen",
     "example": {
@@ -2271,7 +2271,7 @@
   },
   {
     "word": "atare'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "unfold; open",
     "tok_pisin": "op",
     "example": {
@@ -2291,7 +2291,7 @@
   },
   {
     "word": "atfri'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "extract tooth; break off; come out",
     "tok_pisin": "brukim; kamaut",
     "example": {
@@ -2301,7 +2301,7 @@
   },
   {
     "word": "atgre'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "pick; break off",
     "tok_pisin": "brukim",
     "example": {
@@ -2325,7 +2325,7 @@
   },
   {
     "word": "ati'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "Sim: atinte'nee",
     "tok_pisin": "rausim",
     "example": {
@@ -2335,7 +2335,7 @@
   },
   {
     "word": "atne'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "cut; crack; split",
     "tok_pisin": "katim; splitim",
     "example": {
@@ -2345,7 +2345,7 @@
   },
   {
     "word": "atohe'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "put in; fit in; push in",
     "tok_pisin": "sutim; subim insait",
     "example": {
@@ -2355,7 +2355,7 @@
   },
   {
     "word": "atre'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "leave; drop; send; stop; leave out; let; abandon; depart; spend",
     "tok_pisin": "larim; lusim; spendim",
     "example": {
@@ -2365,7 +2365,7 @@
   },
   {
     "word": "atrente'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "healed; better (from sickness); recover (from sickness)",
     "tok_pisin": "pinis",
     "example": {
@@ -2385,7 +2385,7 @@
   },
   {
     "word": "atrure'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "(be) upright; straight up; vertical; stand up",
     "tok_pisin": "sanap stret",
     "example": {
@@ -2395,7 +2395,7 @@
   },
   {
     "word": "atse'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "slip down/fall down",
     "tok_pisin": "bruk",
     "example": {
@@ -2462,7 +2462,7 @@
   },
   {
     "word": "avamre'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "variants": [
       "remre'nee",
       "avaza mre'nee"
@@ -2502,7 +2502,7 @@
   },
   {
     "word": "avatgi'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "greet",
     "tok_pisin": "sekhan",
     "example": {
@@ -2532,7 +2532,7 @@
   },
   {
     "word": "avazgi'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "escape; survive",
     "tok_pisin": "kisim spia na ranawe",
     "example": {
@@ -2542,7 +2542,7 @@
   },
   {
     "word": "avazgi'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "choke",
     "tok_pisin": "pas long nek",
     "example": {
@@ -2578,7 +2578,7 @@
   },
   {
     "word": "ave're'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "Sim: ave' hnati'nee",
     "tok_pisin": "tit i kamap",
     "example": {
@@ -2588,7 +2588,7 @@
   },
   {
     "word": "averi'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "peel sugar cane (with teeth or knife)",
     "tok_pisin": "rausim",
     "example": {
@@ -2598,7 +2598,7 @@
   },
   {
     "word": "avesi'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "eager; need; suffer; long for; feel; like; hope; love; prefer; willing; want",
     "tok_pisin": "les",
     "example": {
@@ -2653,7 +2653,7 @@
   },
   {
     "word": "avire'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "urinate; pass urine",
     "tok_pisin": "pispis",
     "example": {
@@ -2729,7 +2729,7 @@
   },
   {
     "word": "avo're'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "headache",
     "tok_pisin": "het pen",
     "example": {
@@ -2765,7 +2765,7 @@
   },
   {
     "word": "avre'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "take; carry; adopt",
     "tok_pisin": "kisim; karim; lukautim",
     "example": {
@@ -2850,7 +2850,7 @@
   },
   {
     "word": "avunente'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "quickly",
     "tok_pisin": "wok kwik; mekim kwik",
     "example": {
@@ -2940,7 +2940,7 @@
   },
   {
     "word": "azahe'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "Sim: aza propro' hu'nee",
     "tok_pisin": "paitim han",
     "example": {
@@ -2950,7 +2950,7 @@
   },
   {
     "word": "azahu'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "help; assist",
     "tok_pisin": "helpim",
     "example": {
@@ -2966,7 +2966,7 @@
   },
   {
     "word": "azamori'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "bald",
     "tok_pisin": "het kela",
     "example": {
@@ -3056,7 +3056,7 @@
   },
   {
     "word": "azatre'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "wave (the hand)",
     "tok_pisin": "tromwe han",
     "example": {
@@ -3082,7 +3082,7 @@
   },
   {
     "word": "azeri'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "restrain; hold back; arrest; capture; take hold of; catch; seize",
     "tok_pisin": "holim",
     "example": {
@@ -3092,7 +3092,7 @@
   },
   {
     "word": "azerinte'nee",
-    "part_of_speech": "v.",
+    "part_of_speech": "verb.",
     "definition": "trap",
     "tok_pisin": "trapim",
     "example": {

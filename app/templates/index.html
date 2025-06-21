@@ -1,8 +1,11 @@
 {% extends "base.html" %}
 {% block content %}
 
-<div class="mb-4">
-  <a href="/entries/new" class="btn btn-primary">Add New Word</a>
+<div class="w-full flex flex-col gap-14">
+  <div class="w-full flex flex-row justify-between items-center mb-8">
+    <a href="/" class="text-lg font-semibold">Home</a>
+    <a href="/entries/new" class="btn btn-accent btn-sm">+</a>
+  </div>
 </div>
 
 <!-- Initial state when no search has been performed -->

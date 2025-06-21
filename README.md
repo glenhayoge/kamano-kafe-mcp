@@ -107,6 +107,8 @@ API Docs: http://localhost:8000/docs
 
 ## 📽️ Demo Video/GIF
 
+![App Screenshot](app/static/screenshots/screenshot_1.jpg)
+
 A quick walkthrough to be posted here soon
 
 ## 📝 License & Acknowledgments
