@@ -1,7 +1,7 @@
 [
   {
     "word": "a'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "nefa'"
     ],
@@ -14,7 +14,7 @@
   },
   {
     "word": "afaru'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "nefaru'"
     ],
@@ -37,7 +37,7 @@
   },
   {
     "word": "afina",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "top of the garden",
     "tok_pisin": "het bilong gaden"
   },
@@ -53,7 +53,7 @@
   },
   {
     "word": "afova'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(animal) fat",
     "tok_pisin": "pat; gris",
     "example": {
@@ -63,19 +63,19 @@
   },
   {
     "word": "afozo",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "collar bone",
     "tok_pisin": "bun bilong nek"
   },
   {
     "word": "afu",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "shoulder",
     "tok_pisin": "sol"
   },
   {
     "word": "afu'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "afu' mofo sususese'a/asumna azamopa"
     ],
@@ -88,7 +88,7 @@
   },
   {
     "word": "afufeno",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "wealth; treasure",
     "tok_pisin": "planti samting",
     "example": {
@@ -98,13 +98,13 @@
   },
   {
     "word": "afuhe'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "scar",
     "tok_pisin": "mak bilong sua"
   },
   {
     "word": "afurami",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "herd (pigs)",
     "tok_pisin": "ol (pik)"
   },
@@ -120,7 +120,7 @@
   },
   {
     "word": "afutina",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "hip (not the bone)",
     "tok_pisin": "blek mak bilong skin",
     "example": {
@@ -130,7 +130,7 @@
   },
   {
     "word": "afuzafi",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "deep woods/(centre of) wood where no sun shines",
     "tok_pisin": "bikpela bus;  traipela bus",
     "example": {
@@ -140,7 +140,7 @@
   },
   {
     "word": "afuzari",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "agia"
     ],
@@ -153,7 +153,7 @@
   },
   {
     "word": "agafa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "owner",
     "tok_pisin": "papa",
     "example": {
@@ -163,13 +163,13 @@
   },
   {
     "word": "agafa'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "base; stump of tree; source; basis; meaning; cause",
     "tok_pisin": "as"
   },
   {
     "word": "agafe'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "armpit",
     "tok_pisin": "sangana",
     "example": {
@@ -179,7 +179,7 @@
   },
   {
     "word": "agage",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "footsteps",
     "tok_pisin": "pairap bilong lek",
     "example": {
@@ -189,31 +189,31 @@
   },
   {
     "word": "agagumpi",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(top of) foot",
     "tok_pisin": "antap long lek"
   },
   {
     "word": "agagusa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "sole of foot",
     "tok_pisin": "ananit long lek"
   },
   {
     "word": "agahri",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "eel",
     "tok_pisin": "mario"
   },
   {
     "word": "agaka",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "footprint",
     "tok_pisin": "lek mak; mak bilong lek/fut"
   },
   {
     "word": "agamerumpa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "heel",
     "tok_pisin": "baksait bilong lek",
     "example": {
@@ -223,19 +223,19 @@
   },
   {
     "word": "agasasa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "noise; sound",
     "tok_pisin": "nois"
   },
   {
     "word": "agaso'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "prickle",
     "tok_pisin": "moson"
   },
   {
     "word": "agasoke'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "hairy; (very) prickly",
     "tok_pisin": "moson pulap",
     "example": {
@@ -245,7 +245,7 @@
   },
   {
     "word": "agata'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "sapling; Shoot (of a banana, bamboo etc",
     "tok_pisin": "liklik diwai; sut bilong  en; nupela sut"
   },
@@ -256,7 +256,7 @@
   },
   {
     "word": "agavu'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "ankle",
     "tok_pisin": "join bilong lek",
     "example": {
@@ -279,7 +279,7 @@
   },
   {
     "word": "age'anke",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "teasing talk",
     "tok_pisin": "giaman tok",
     "example": {
@@ -289,7 +289,7 @@
   },
   {
     "word": "ageho'e",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "grandchild/grandparent",
     "tok_pisin": "tumbuna; bubu",
     "example": {
@@ -299,7 +299,7 @@
   },
   {
     "word": "ageko'na",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "agente'",
       "agentega",
@@ -315,7 +315,7 @@
   },
   {
     "word": "agempuna",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "agemzampa"
     ],
@@ -328,7 +328,7 @@
   },
   {
     "word": "agena",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(the whole of) neck",
     "tok_pisin": "nek",
     "example": {
@@ -338,7 +338,7 @@
   },
   {
     "word": "agenke",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "report; information; account (of the way someone behaves, lives or works",
     "tok_pisin": "tok baksait; mekim stori",
     "example": {
@@ -348,24 +348,24 @@
   },
   {
     "word": "agenopa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "top of the head",
     "tok_pisin": "het"
   },
   {
     "word": "agentega",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "verge; side; edge",
     "tok_pisin": "sait; arere"
   },
   {
     "word": "ageri'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(ear) wax"
   },
   {
     "word": "ageru'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "voice; sound; tune",
     "tok_pisin": "krai; nois; toktok; nek",
     "example": {
@@ -375,7 +375,7 @@
   },
   {
     "word": "agesa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "agesa are' ante-e",
       "Agesa are'are' hu'nee"
@@ -389,13 +389,13 @@
   },
   {
     "word": "agetu",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "neck",
     "tok_pisin": "nek"
   },
   {
     "word": "ageza",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(lower) back",
     "tok_pisin": "as"
   },
@@ -411,7 +411,7 @@
   },
   {
     "word": "agi",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "name",
     "tok_pisin": "nem",
     "example": {
@@ -421,7 +421,7 @@
   },
   {
     "word": "agi'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "mouth; lips; beak; Front seat of car",
     "tok_pisin": "maus",
     "example": {
@@ -431,7 +431,7 @@
   },
   {
     "word": "agia",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "aga"
     ],
@@ -444,7 +444,7 @@
   },
   {
     "word": "agigo",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "toe; claw; talon; hoof",
     "tok_pisin": "kapa bilong lek",
     "example": {
@@ -454,7 +454,7 @@
   },
   {
     "word": "agigomo'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "agihura hunentee"
     ],
@@ -467,7 +467,7 @@
   },
   {
     "word": "agiki'agoko'mo'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "ancestor",
     "tok_pisin": "tumbuna",
     "example": {
@@ -477,7 +477,7 @@
   },
   {
     "word": "agi'morena",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "lips",
     "tok_pisin": "maus; arere bilong maus",
     "example": {
@@ -487,7 +487,7 @@
   },
   {
     "word": "agirama'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "verse (song); true name",
     "tok_pisin": "ves; nem tru",
     "example": {
@@ -507,7 +507,7 @@
   },
   {
     "word": "agmo'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "compost; humus; vegetable mould",
     "tok_pisin": "kompos",
     "example": {
@@ -527,7 +527,7 @@
   },
   {
     "word": "agnefu'na",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "agote'nee"
     ],
@@ -560,7 +560,7 @@
   },
   {
     "word": "agogofe'za",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "agogofeaza"
     ],
@@ -573,7 +573,7 @@
   },
   {
     "word": "agomimpa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "abdomen (lower, central); groin",
     "tok_pisin": "namel long bel; sangana",
     "example": {
@@ -583,7 +583,7 @@
   },
   {
     "word": "agona",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "agona vzi'nee"
     ],
@@ -596,7 +596,7 @@
   },
   {
     "word": "agona'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "piece",
     "tok_pisin": "hap",
     "example": {
@@ -606,13 +606,13 @@
   },
   {
     "word": "agona'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "tip; point",
     "tok_pisin": "poin"
   },
   {
     "word": "agonaga",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "nostril",
     "tok_pisin": "nus hul; hul bilong nus",
     "example": {
@@ -622,13 +622,13 @@
   },
   {
     "word": "agonazafa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "nasal septum",
     "tok_pisin": "namba wan pikinini"
   },
   {
     "word": "agonkna'za",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "scrotum",
     "tok_pisin": "bol",
     "example": {
@@ -638,18 +638,18 @@
   },
   {
     "word": "agore",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "beetle (flying, green, edible and small)"
   },
   {
     "word": "agosasuna",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "top lip",
     "tok_pisin": "nus gras"
   },
   {
     "word": "agoso'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(first) roots; tubers (of sweet potato, yam, wingbean, etcetera)",
     "tok_pisin": "liklik rop bilong (kaukau",
     "example": {
@@ -659,7 +659,7 @@
   },
   {
     "word": "agovi'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "crest (of a cockatoo etc",
     "tok_pisin": "het gras bilong koki; kangal",
     "example": {
@@ -679,7 +679,7 @@
   },
   {
     "word": "agoza",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "penis",
     "tok_pisin": "kok",
     "example": {
@@ -689,7 +689,7 @@
   },
   {
     "word": "agozafa'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "runners (of strawberries etc",
     "tok_pisin": "em",
     "example": {
@@ -699,7 +699,7 @@
   },
   {
     "word": "agre",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "saliva; froth; spittle; foam; bubble",
     "tok_pisin": "maus wara; sop wara",
     "example": {
@@ -709,7 +709,7 @@
   },
   {
     "word": "agrema'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "fizz",
     "tok_pisin": "sop wara",
     "example": {
@@ -719,7 +719,7 @@
   },
   {
     "word": "agreza",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "soap",
     "tok_pisin": "sop",
     "example": {
@@ -739,7 +739,7 @@
   },
   {
     "word": "agruna",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "amu' vzi'nee"
     ],
@@ -752,7 +752,7 @@
   },
   {
     "word": "agu'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "anthinte'nee"
     ],
@@ -765,7 +765,7 @@
   },
   {
     "word": "agu'agesa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "mind; thought",
     "tok_pisin": "tingting",
     "example": {
@@ -775,7 +775,7 @@
   },
   {
     "word": "agu'agesa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "meaning",
     "tok_pisin": "as bilong tok",
     "example": {
@@ -785,7 +785,7 @@
   },
   {
     "word": "agumpi",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "middle back",
     "tok_pisin": "baksait",
     "example": {
@@ -795,7 +795,7 @@
   },
   {
     "word": "agupa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "stomach",
     "tok_pisin": "kaikai bilum, bel",
     "example": {
@@ -805,7 +805,7 @@
   },
   {
     "word": "agupo",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "level ground; valley; lowland",
     "tok_pisin": "stret ples",
     "example": {
@@ -815,7 +815,7 @@
   },
   {
     "word": "agusa'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "fat",
     "tok_pisin": "gris; patpela",
     "example": {
@@ -825,7 +825,7 @@
   },
   {
     "word": "agzu'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "ami sge'nee"
     ],
@@ -838,7 +838,7 @@
   },
   {
     "word": "ahehe'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "scales",
     "tok_pisin": "grile bilong pis",
     "example": {
@@ -848,7 +848,7 @@
   },
   {
     "word": "ahehe'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "flake",
     "tok_pisin": "skin kamaut; grile"
   },
@@ -894,7 +894,7 @@
   },
   {
     "word": "ahi'mo'e",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "ancestors; original couple (who populated an area including several villages)",
     "tok_pisin": "tumbuna",
     "example": {
@@ -904,7 +904,7 @@
   },
   {
     "word": "aho'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "ata' hu'nee"
     ],
@@ -917,7 +917,7 @@
   },
   {
     "word": "akento'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "widow",
     "tok_pisin": "meri man bilong em i dai pinis na em i no marit gen",
     "example": {
@@ -982,7 +982,7 @@
   },
   {
     "word": "akru'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "bark; shell; sheath; husk; rind",
     "tok_pisin": "skin",
     "example": {
@@ -1002,7 +1002,7 @@
   },
   {
     "word": "akvo'za",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "ama' afi"
     ],
@@ -1038,7 +1038,7 @@
   },
   {
     "word": "ame'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "meat; flesh; lean meat",
     "tok_pisin": "mit",
     "example": {
@@ -1048,7 +1048,7 @@
   },
   {
     "word": "amema'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "Sim: a'va zgo",
     "tok_pisin": "win mani (lep mani); tewel; piksa",
     "example": {
@@ -1058,7 +1058,7 @@
   },
   {
     "word": "amena'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "azankuna'a"
     ],
@@ -1071,7 +1071,7 @@
   },
   {
     "word": "amene",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "amema'a"
     ],
@@ -1084,7 +1084,7 @@
   },
   {
     "word": "amerge",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "arameta"
     ],
@@ -1093,7 +1093,7 @@
   },
   {
     "word": "amergema'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "amemo' antinti hu'nee"
     ],
@@ -1106,7 +1106,7 @@
   },
   {
     "word": "amge'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "next",
     "tok_pisin": "bihain long en",
     "example": {
@@ -1116,7 +1116,7 @@
   },
   {
     "word": "amgena",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "back; edge; back of a knife; ridge-pole of house",
     "tok_pisin": "backsait",
     "example": {
@@ -1126,7 +1126,7 @@
   },
   {
     "word": "amgenarinka",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "back-bone depression",
     "tok_pisin": "baksait bun baret"
   },
@@ -1142,7 +1142,7 @@
   },
   {
     "word": "ami",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "breast; breast milk",
     "tok_pisin": "susu",
     "example": {
@@ -1152,7 +1152,7 @@
   },
   {
     "word": "amigona",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "teat; nipple",
     "tok_pisin": "poin bilong susu; ai bilong susu",
     "example": {
@@ -1162,7 +1162,7 @@
   },
   {
     "word": "amimiza",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "chest",
     "tok_pisin": "bros",
     "example": {
@@ -1196,13 +1196,13 @@
   },
   {
     "word": "amo'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "thigh",
     "tok_pisin": "lek"
   },
   {
     "word": "amohe'za",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "nenamomo'"
     ],
@@ -1215,7 +1215,7 @@
   },
   {
     "word": "amonga'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "Sim: avamente'",
     "tok_pisin": "sais",
     "example": {
@@ -1225,7 +1225,7 @@
   },
   {
     "word": "ampampu'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "Sim: prampru'a",
     "tok_pisin": "pipia wara bilong kaikai",
     "example": {
@@ -1235,7 +1235,7 @@
   },
   {
     "word": "ampori'e",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "ampori'e",
       "amporiza"
@@ -1262,7 +1262,7 @@
   },
   {
     "word": "amu'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "vapour; steam",
     "tok_pisin": "smok bilong wara i hat pinis",
     "example": {
@@ -1272,7 +1272,7 @@
   },
   {
     "word": "amu'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(its) egg",
     "tok_pisin": "kiau",
     "example": {
@@ -1282,7 +1282,7 @@
   },
   {
     "word": "amumpa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "tip; top (of a bush, tree, plant or house)",
     "tok_pisin": "kru bilong en; het bilong  en",
     "example": {
@@ -1292,7 +1292,7 @@
   },
   {
     "word": "amumzina",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "amu'nompi vhe'"
     ],
@@ -1318,7 +1318,7 @@
   },
   {
     "word": "ana'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "anagami",
       "anagamu",
@@ -1346,7 +1346,7 @@
   },
   {
     "word": "ananke",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "afuku' nanankenku' frue"
     ],
@@ -1369,7 +1369,7 @@
   },
   {
     "word": "ane",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "cicada",
     "tok_pisin": "siketa",
     "example": {
@@ -1379,7 +1379,7 @@
   },
   {
     "word": "ane'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "row in a garden",
     "tok_pisin": "barit",
     "example": {
@@ -1389,7 +1389,7 @@
   },
   {
     "word": "anefa'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "flame",
     "tok_pisin": "lait bilong paia",
     "example": {
@@ -1399,7 +1399,7 @@
   },
   {
     "word": "anenta'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "anfenfu hu'nee"
     ],
@@ -1412,7 +1412,7 @@
   },
   {
     "word": "ange'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "distance; measurement; way",
     "tok_pisin": "longpela hap",
     "example": {
@@ -1422,7 +1422,7 @@
   },
   {
     "word": "ange'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "roll"
   },
   {
@@ -1447,7 +1447,7 @@
   },
   {
     "word": "ani'ani'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "onion",
     "tok_pisin": "anian"
   },
@@ -1473,7 +1473,7 @@
   },
   {
     "word": "ani'na",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "leaf; page; flat part of mushroom",
     "tok_pisin": "lip",
     "example": {
@@ -1493,7 +1493,7 @@
   },
   {
     "word": "aninta'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "womb; uterus",
     "tok_pisin": "ples bilong pikinini i kamap",
     "example": {
@@ -1513,7 +1513,7 @@
   },
   {
     "word": "ankena",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "edge of water; bank of any water; shore",
     "tok_pisin": "arere"
   },
@@ -1529,7 +1529,7 @@
   },
   {
     "word": "ankina",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "edge of wood",
     "tok_pisin": "klostu long bus",
     "example": {
@@ -1539,7 +1539,7 @@
   },
   {
     "word": "anknire'nee",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "anrira' re'nee",
       "anknira' re'nee"
@@ -1553,7 +1553,7 @@
   },
   {
     "word": "anknu'za",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "ember",
     "tok_pisin": "hap diwai i kuk pinis tasol igat paia long en yet",
     "example": {
@@ -1563,7 +1563,7 @@
   },
   {
     "word": "ankreku'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "shirt",
     "tok_pisin": "siot",
     "example": {
@@ -1593,7 +1593,7 @@
   },
   {
     "word": "ankrre'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "dirt; coin",
     "tok_pisin": "pipia",
     "example": {
@@ -1613,7 +1613,7 @@
   },
   {
     "word": "anku'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "ankza avesi'nee",
       "ankza ante'nee",
@@ -1628,7 +1628,7 @@
   },
   {
     "word": "anofero'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "mother-in-law (of a woman); daughter-in-law (of a woman); father-in-law (of  a woman)",
     "tok_pisin": "tambu meri",
     "example": {
@@ -1638,7 +1638,7 @@
   },
   {
     "word": "anogo'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "nenogo'"
     ],
@@ -1660,7 +1660,7 @@
   },
   {
     "word": "anoma'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "anopi'"
     ],
@@ -1673,13 +1673,13 @@
   },
   {
     "word": "anosinosiza",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "rubbish",
     "tok_pisin": "pipia"
   },
   {
     "word": "anta'amo'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "mother; aunt (mother's sister)",
     "tok_pisin": "mama",
     "example": {
@@ -1689,7 +1689,7 @@
   },
   {
     "word": "antama",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "gravel; sand",
     "tok_pisin": "wetsan",
     "example": {
@@ -1752,7 +1752,7 @@
   },
   {
     "word": "anthi'za",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "knowledge; wisdom",
     "tok_pisin": "save",
     "example": {
@@ -1772,7 +1772,7 @@
   },
   {
     "word": "antivi",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "sweet corn",
     "tok_pisin": "kon"
   },
@@ -1798,7 +1798,7 @@
   },
   {
     "word": "anu",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "anu' erinte'nee"
     ],
@@ -1824,7 +1824,7 @@
   },
   {
     "word": "anuntu'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "anuntu'a"
     ],
@@ -1880,7 +1880,7 @@
   },
   {
     "word": "apikuri",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "red plant dye",
     "tok_pisin": "retpela flaua",
     "example": {
@@ -1913,7 +1913,7 @@
   },
   {
     "word": "ara'na",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "ra'na"
     ],
@@ -1926,13 +1926,13 @@
   },
   {
     "word": "arara'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "Sim: hgu'",
     "tok_pisin": "kumu"
   },
   {
     "word": "arave",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "married couple; pair",
     "tok_pisin": "tupela",
     "example": {
@@ -1942,7 +1942,7 @@
   },
   {
     "word": "arfu'na",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "arfuta/arfuna'a"
     ],
@@ -1951,24 +1951,24 @@
   },
   {
     "word": "arikoko'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "yellow string bean",
     "tok_pisin": "bin"
   },
   {
     "word": "arri",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "sooty rail (bird)"
   },
   {
     "word": "asa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "partition; divide",
     "tok_pisin": "brukim namel"
   },
   {
     "word": "asa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "arm band; bracelet",
     "tok_pisin": "paspas",
     "example": {
@@ -2012,7 +2012,7 @@
   },
   {
     "word": "aseni",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "aseni kna hu'nee"
     ],
@@ -2025,7 +2025,7 @@
   },
   {
     "word": "aseni'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "title (book etc",
     "tok_pisin": "het tok; het lain",
     "example": {
@@ -2045,7 +2045,7 @@
   },
   {
     "word": "asesa'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "teve asesa",
       "tevesesa"
@@ -2055,7 +2055,7 @@
   },
   {
     "word": "asete'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "properly",
     "tok_pisin": "gut",
     "example": {
@@ -2075,7 +2075,7 @@
   },
   {
     "word": "asi",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "spawn",
     "tok_pisin": "kiau bilong rokrok",
     "example": {
@@ -2085,7 +2085,7 @@
   },
   {
     "word": "asi'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "hand of bananas",
     "tok_pisin": "bel hat",
     "example": {
@@ -2095,13 +2095,13 @@
   },
   {
     "word": "asime'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "Sim: agonrifa",
     "tok_pisin": "kus"
   },
   {
     "word": "asimu'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "asomu hu'nee"
     ],
@@ -2114,7 +2114,7 @@
   },
   {
     "word": "asinu'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "brain; bone marrow; spinal cord",
     "tok_pisin": "kru"
   },
@@ -2160,7 +2160,7 @@
   },
   {
     "word": "aso'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "kidney(s)",
     "tok_pisin": "kidni"
   },
@@ -2176,7 +2176,7 @@
   },
   {
     "word": "asopa'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "side",
     "tok_pisin": "banis; sait",
     "example": {
@@ -2186,7 +2186,7 @@
   },
   {
     "word": "asoza",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "rib(s)",
     "tok_pisin": "banis",
     "example": {
@@ -2196,7 +2196,7 @@
   },
   {
     "word": "asumna",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "asumna pro hie",
       "asumna fki fki hu'nee"
@@ -2210,7 +2210,7 @@
   },
   {
     "word": "asumpi",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "lap"
   },
   {
@@ -2241,7 +2241,7 @@
   },
   {
     "word": "asuzampi",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "grief; (very) sad",
     "tok_pisin": "bikpela sori",
     "example": {
@@ -2251,7 +2251,7 @@
   },
   {
     "word": "ata'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "dew",
     "tok_pisin": "liklik ren",
     "example": {
@@ -2281,7 +2281,7 @@
   },
   {
     "word": "ataza",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "pain; sickness; illness",
     "tok_pisin": "sik",
     "example": {
@@ -2311,7 +2311,7 @@
   },
   {
     "word": "ati",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "vtiri'nee",
       "vti'nee"
@@ -2375,7 +2375,7 @@
   },
   {
     "word": "atru",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "conference; group; rally; assembly",
     "tok_pisin": "kibung; mitin",
     "example": {
@@ -2405,7 +2405,7 @@
   },
   {
     "word": "atupa'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "au eri ami'nee"
     ],
@@ -2418,7 +2418,7 @@
   },
   {
     "word": "avaguna'nafa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "avro' nehie"
     ],
@@ -2431,7 +2431,7 @@
   },
   {
     "word": "avame'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "Sim: avame'za",
     "tok_pisin": "mak; sain; soim",
     "example": {
@@ -2441,12 +2441,12 @@
   },
   {
     "word": "avame'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "model"
   },
   {
     "word": "avamente'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "limit; size",
     "tok_pisin": "mak; skel",
     "example": {
@@ -2456,7 +2456,7 @@
   },
   {
     "word": "avame'za",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "mark",
     "tok_pisin": "mak; sain"
   },
@@ -2476,13 +2476,13 @@
   },
   {
     "word": "avapa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "ridge",
     "tok_pisin": "kil"
   },
   {
     "word": "avapa'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "naked",
     "tok_pisin": "skin nating",
     "example": {
@@ -2492,7 +2492,7 @@
   },
   {
     "word": "avate'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "close; personal; related; true",
     "tok_pisin": "klostu",
     "example": {
@@ -2512,7 +2512,7 @@
   },
   {
     "word": "avave'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "injury; wound",
     "tok_pisin": "bagarap",
     "example": {
@@ -2522,7 +2522,7 @@
   },
   {
     "word": "avaza'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "rim; lid",
     "tok_pisin": "arere; maus; ai bilong sospen",
     "example": {
@@ -2552,7 +2552,7 @@
   },
   {
     "word": "ave'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(his) tooth; tusk",
     "tok_pisin": "tit; tit bilong abus",
     "example": {
@@ -2562,13 +2562,13 @@
   },
   {
     "word": "ave'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "spike",
     "tok_pisin": "sap poin"
   },
   {
     "word": "ave'ave'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "thorns",
     "tok_pisin": "nil",
     "example": {
@@ -2608,7 +2608,7 @@
   },
   {
     "word": "avetu'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "avetu' ahente'nee"
     ],
@@ -2621,24 +2621,24 @@
   },
   {
     "word": "avi",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "yam"
   },
   {
     "word": "avi",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "urine",
     "tok_pisin": "pispis"
   },
   {
     "word": "avimza",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "seeds (general term)",
     "tok_pisin": "pikinini diwai"
   },
   {
     "word": "avina",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "heredity; in the family; seed",
     "tok_pisin": "sit; pikinini",
     "example": {
@@ -2648,7 +2648,7 @@
   },
   {
     "word": "avinompa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "gall bladder"
   },
   {
@@ -2663,18 +2663,18 @@
   },
   {
     "word": "avirume",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "wasp"
   },
   {
     "word": "avo",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "mark; writing; pattern; design",
     "tok_pisin": "mak"
   },
   {
     "word": "avo'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "pus",
     "tok_pisin": "susu",
     "example": {
@@ -2684,13 +2684,13 @@
   },
   {
     "word": "avo'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "head (of axe)",
     "tok_pisin": "het"
   },
   {
     "word": "avoge",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "song",
     "tok_pisin": "singsing",
     "example": {
@@ -2700,13 +2700,13 @@
   },
   {
     "word": "avoma'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "signature",
     "tok_pisin": "mak"
   },
   {
     "word": "avoma'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "avonke' nanke'"
     ],
@@ -2719,7 +2719,7 @@
   },
   {
     "word": "avono",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "school",
     "tok_pisin": "skul",
     "example": {
@@ -2739,7 +2739,7 @@
   },
   {
     "word": "avoza'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "agoza"
     ],
@@ -2752,7 +2752,7 @@
   },
   {
     "word": "avoza'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "kumzafa avreno' fre'nee"
     ],
@@ -2775,13 +2775,13 @@
   },
   {
     "word": "avu",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(Area between two) joints (of a bamboo and other cane",
     "tok_pisin": "buk bilong  en"
   },
   {
     "word": "avu",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "target",
     "tok_pisin": "ai; poin",
     "example": {
@@ -2791,7 +2791,7 @@
   },
   {
     "word": "avu'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "joint (of body)",
     "tok_pisin": "join",
     "example": {
@@ -2801,7 +2801,7 @@
   },
   {
     "word": "avufga",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(his) body",
     "tok_pisin": "skin",
     "example": {
@@ -2811,7 +2811,7 @@
   },
   {
     "word": "avufga'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "substance; proof; result; value; worth; (become) actual fact",
     "tok_pisin": "as  bilong tok; gutpela",
     "example": {
@@ -2821,7 +2821,7 @@
   },
   {
     "word": "avugosa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(his) face",
     "tok_pisin": "pes",
     "example": {
@@ -2831,13 +2831,13 @@
   },
   {
     "word": "avu'mipa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(his) brow (immediately above eye, not hair)",
     "tok_pisin": "ai bun"
   },
   {
     "word": "avumro'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "avuna se'nee"
     ],
@@ -2860,7 +2860,7 @@
   },
   {
     "word": "avunu'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "tears",
     "tok_pisin": "ai wara",
     "example": {
@@ -2870,7 +2870,7 @@
   },
   {
     "word": "avurga",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(his) eye(s)",
     "tok_pisin": "ai",
     "example": {
@@ -2880,7 +2880,7 @@
   },
   {
     "word": "avu'va'za",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "fashion; behaviour; custom; tradition; culture",
     "tok_pisin": "pasin",
     "example": {
@@ -2890,13 +2890,13 @@
   },
   {
     "word": "avuzoka'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "eyelash",
     "tok_pisin": "gras bilong ai"
   },
   {
     "word": "avuzoka'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "naza"
     ],
@@ -2909,7 +2909,7 @@
   },
   {
     "word": "aza",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "aza agonafi atre'nee"
     ],
@@ -2922,19 +2922,19 @@
   },
   {
     "word": "azafa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(his) thumb",
     "tok_pisin": "bikpela pinga; namba wan pinga"
   },
   {
     "word": "azagofetu'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(on his) hand",
     "tok_pisin": "antap long han"
   },
   {
     "word": "azagumpi",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(back of his) hand",
     "tok_pisin": "baksait bilong han"
   },
@@ -2960,7 +2960,7 @@
   },
   {
     "word": "azamopa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(his) lungs",
     "tok_pisin": "wait lewa"
   },
@@ -2976,7 +2976,7 @@
   },
   {
     "word": "azampasa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(his) upper arm",
     "tok_pisin": "bun bilong han",
     "example": {
@@ -2986,7 +2986,7 @@
   },
   {
     "word": "azamrufa'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "shoulder",
     "tok_pisin": "hap han",
     "example": {
@@ -2996,7 +2996,7 @@
   },
   {
     "word": "azanka",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "sleeve; armhole",
     "tok_pisin": "bilong putim han",
     "example": {
@@ -3006,7 +3006,7 @@
   },
   {
     "word": "azanka'na",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(his) armpit",
     "tok_pisin": "sangana",
     "example": {
@@ -3016,7 +3016,7 @@
   },
   {
     "word": "azanko",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(his) finger-nail; claw of bird; front hoof",
     "tok_pisin": "kapa bilong pinga",
     "example": {
@@ -3026,7 +3026,7 @@
   },
   {
     "word": "azankuna'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(its) branch",
     "tok_pisin": "han bilong diwai",
     "example": {
@@ -3036,7 +3036,7 @@
   },
   {
     "word": "azanumpa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(his) elbow",
     "tok_pisin": "skru bilong han",
     "example": {
@@ -3046,7 +3046,7 @@
   },
   {
     "word": "azanvage",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "abuse; derode; ridicule; teasing",
     "tok_pisin": "tok pilai",
     "example": {
@@ -3066,13 +3066,13 @@
   },
   {
     "word": "azavoza",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(last joint of his) finger; finger-tip",
     "tok_pisin": "pinga bilong han"
   },
   {
     "word": "azavu'a",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(his) wrist; knuckle",
     "tok_pisin": "join bilong han",
     "example": {
@@ -3102,7 +3102,7 @@
   },
   {
     "word": "azo",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "variants": [
       "azohno"
     ],
@@ -3111,7 +3111,7 @@
   },
   {
     "word": "azoka'",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "(his/its) hair; feathers; fur",
     "tok_pisin": "gras",
     "example": {
@@ -3121,13 +3121,13 @@
   },
   {
     "word": "azompa",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "walking stick",
     "tok_pisin": "stik bilong wokabaut"
   },
   {
     "word": "azo'na",
-    "part_of_speech": "n.",
+    "part_of_speech": "noun.",
     "definition": "Sim: azamrufa",
     "tok_pisin": "sol",
     "example": {

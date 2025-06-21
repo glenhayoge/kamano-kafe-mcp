@@ -51,28 +51,60 @@
     <!-- Search bar with filter toggles -->
 <div class="mb-8 bg-base-300 rounded-xl shadow-sm">
   <form action="/" method="get" class="flex flex-col gap-3 sm:flex-row sm:items-center rounded-xl shadow-sm px-4 py-3">
-    <input type="text" name="q" placeholder="Search for a word..." class="flex-1 bg-transparent outline-none border-none focus:ring-0 text-lg placeholder-gray-400" value="{{ q or '' }}" />
+    <input type="text" name="q" placeholder="Search for a word..." 
+           class="flex-1 bg-transparent outline-none border-none focus:ring-0 text-lg placeholder-gray-400" 
+           value="{{ q or 'branch' }}"
+           hx-get="/search"
+           hx-target="#search-results"
+           hx-trigger="keyup changed delay:300ms"
+           hx-indicator="#loading-indicator" />
     <div class="flex gap-1 bg-base-100 rounded-full p-1 border border-base-200">
       <label class="cursor-pointer">
-        <input type="radio" name="field" value="word" class="sr-only peer" {% if field == 'word' or not field %}checked{% endif %}>
+        <input type="radio" name="field" value="definition" class="sr-only peer"
+               hx-get="/search"
+               hx-target="#search-results"
+               hx-trigger="change"
+               hx-include="[name='q']"
+               {% if field == 'definition' or not field %}checked{% endif %}>
+        <span class="px-3 py-1 rounded-full text-sm transition-colors duration-150 text-gray-600 hover:bg-base-200 peer-checked:bg-primary peer-checked:text-white">Definition</span>
+      </label>
+      <label class="cursor-pointer">
+        <input type="radio" name="field" value="word" class="sr-only peer" 
+               hx-get="/search"
+               hx-target="#search-results"
+               hx-trigger="change"
+               hx-include="[name='q']"
+               {% if field == 'word' %}checked{% endif %}>
         <span class="px-3 py-1 rounded-full text-sm transition-colors duration-150 text-gray-600 hover:bg-base-200 peer-checked:bg-primary peer-checked:text-white">Word</span>
       </label>
       <label class="cursor-pointer">
-        <input type="radio" name="field" value="tok_pisin" class="sr-only peer" {% if field == 'tok_pisin' %}checked{% endif %}>
+        <input type="radio" name="field" value="tok_pisin" class="sr-only peer"
+               hx-get="/search"
+               hx-target="#search-results"
+               hx-trigger="change"
+               hx-include="[name='q']"
+               {% if field == 'tok_pisin' %}checked{% endif %}>
         <span class="px-3 py-1 rounded-full text-sm transition-colors duration-150 text-gray-600 hover:bg-base-200 peer-checked:bg-primary peer-checked:text-white">Tok Pisin</span>
       </label>
-      <label class="cursor-pointer">
-        <input type="radio" name="field" value="definition" class="sr-only peer" {% if field == 'definition' %}checked{% endif %}>
-        <span class="px-3 py-1 rounded-full text-sm transition-colors duration-150 text-gray-600 hover:bg-base-200 peer-checked:bg-primary peer-checked:text-white">Definition</span>
-      </label>
+     
     </div>
-    <button class="btn btn-primary rounded-full px-6 shadow-none border-none text-base font-semibold min-h-0 h-10" type="submit">Search</button>
+    <button class="btn btn-primary rounded-full px-6 shadow-none border-none text-base font-semibold min-h-0 h-10" 
+            hx-get="/search"
+            hx-target="#search-results"
+            hx-include="[name='q'], [name='field']:checked"
+            type="button">Search</button>
   </form>
 </div>
-  
 
-    {% block content %}{% endblock %}
-   
+<!-- Loading indicator -->
+<div id="loading-indicator" class="htmx-indicator flex justify-center items-center py-8">
+  <div class="loading loading-spinner loading-lg text-primary"></div>
+</div>
+
+<!-- Search results container -->
+<div id="search-results">
+  {% block content %}{% endblock %}
+</div>
   </div>
   {% include 'footer.html' %}
 </body>

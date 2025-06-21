@@ -1,14 +1,40 @@
 {% extends "base.html" %}
 {% block content %}
-<h2 class="text-2xl font-bold">{{ entry.word }}</h2>
-<p><strong>Part of Speech:</strong> {{ entry.part_of_speech }}</p>
-<p><strong>Definition:</strong> {{ entry.definition }}</p>
-<p><strong>Tok Pisin:</strong> {{ entry.tok_pisin }}</p>
-{% if entry.example %}
-  <div class="mt-2">
-    <p><strong>Kamano:</strong> {{ entry.example.kamano }}</p>
-    <p><strong>English:</strong> {{ entry.example.english }}</p>
+<div class="w-full flex flex-col gap-14">
+  <header class="w-full flex flex-row justify-between items-start mb-8">
+    <div class="flex flex-col gap-2">
+      <h1 class="text-5xl font-bold">{{entry.word}}</h1>
+    </div>
+    <div>
+      <button
+        class="btn btn-lg rounded-full btn-outline flex justify-center items-center"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-volume-2">
+          <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+          <path d="M15 8a5 5 0 0 1 0 8" />
+          <path d="M6 15h-2a1 1 0 0 1 -1 -1v-4a1 1 0 0 1 1 -1h2l3.5 -4.5a.8 .8 0 0 1 1.5 .5v14a.8 .8 0 0 1 -1.5 .5l-3.5 -4.5" />
+        </svg>
+      </button>
+    </div>
+  </header>
+  <section class="w-full flex flex-col gap-10">
+    <h3 class="flex items-center gap-6 text-xl mb-8">
+      <span>{{entry.part_of_speech}}</span>
+      <hr class="flex-1 border-base-500" />
+    </h3>
+  </section>
+    
+  <div class="space-y-4">
+    <p><strong>Definition:</strong> {{ entry.definition }}</p>
+    <p><strong>Tok Pisin:</strong> {{ entry.tok_pisin }}</p>
+    {% if entry.example %}
+      <div class="mt-2">
+        <p><strong>Kamano:</strong> {{ entry.example.kamano }}</p>
+        <p><strong>English:</strong> {{ entry.example.english }}</p>
+      </div>
+    {% endif %}
+    <a href="/" class="btn mt-4">Back</a>
   </div>
-{% endif %}
-<a href="/" class="btn mt-4">Back</a>
+</div>
 {% endblock %}
+

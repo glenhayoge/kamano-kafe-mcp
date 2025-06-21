@@ -1,11 +1,4 @@
-{% extends "base.html" %}
-{% block content %}
-
-<div class="mb-4">
-  <a href="/entries/new" class="btn btn-primary">Add New Word</a>
-</div>
-
-<!-- Initial state when no search has been performed -->
+<!-- Search results -->
 {% if not q %}
   <div class="text-center text-gray-500 mt-10">
     <div class="mb-4">
@@ -18,7 +11,6 @@
     <p class="text-sm">Type in the search bar above to find words, definitions, or Tok Pisin translations</p>
   </div>
 {% else %}
-  <!-- Search results -->
   {% if entries|length == 0 %}
     <div class="text-center text-gray-500 mt-10">
       <div class="mb-4">
@@ -50,6 +42,4 @@
       {% endfor %}
     </ul>
   {% endif %}
-{% endif %}
-
-{% endblock %}
+{% endif %} 

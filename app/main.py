@@ -11,7 +11,32 @@ app.mount("/static", StaticFiles(directory="app/static"), name="static")
 templates = Jinja2Templates(directory="app/templates")
 
 @app.get("/", response_class=HTMLResponse)
-async def home(request: Request, q: str = Query(None), field: str = Query("word")):
+async def home(request: Request):
+    # Default search for "branch"
+    default_q = "branch"
+    default_field = "definition"
+    
+    entries = crud.get_all_entries()
+    filtered = []
+    
+    # Perform default search
+    for entry in entries:
+        value = entry.get(default_field, "")
+        if isinstance(value, list):
+            value = " ".join(value)
+        if default_q.lower() in value.lower():
+            filtered.append(entry)
+    
+    return templates.TemplateResponse("index.html", {
+        "request": request,
+        "entries": filtered,
+        "q": default_q,
+        "field": default_field,
+        "year": datetime.now().year
+    })
+
+@app.get("/search", response_class=HTMLResponse)
+async def search(request: Request, q: str = Query(None), field: str = Query("word")):
     entries = crud.get_all_entries()
     filtered = []
 
@@ -25,7 +50,7 @@ async def home(request: Request, q: str = Query(None), field: str = Query("word"
     else:
         filtered = entries
 
-    return templates.TemplateResponse("index.html", {
+    return templates.TemplateResponse("search_results.html", {
         "request": request,
         "entries": filtered,
         "q": q,
